@@ -1,0 +1,18 @@
+# WordPress Security Scanner — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core HTTP & Parsing
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0              # faster HTML parser for bs4
+urllib3>=2.0.0
+
+# Web UI
+flask>=3.0.0
+
+# Optional: improved SSL analysis
+# cryptography>=41.0.0
+
+# Dev / testing (not required to run)
+# pytest>=7.4.0
+# responses>=0.24.0       # mock HTTP for tests
