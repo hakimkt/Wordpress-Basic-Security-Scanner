@@ -5,6 +5,7 @@ A lightweight, **non-intrusive**, black-box WordPress vulnerability scanner with
 > **Legal Notice:** Only scan websites you own or have **explicit written authorisation** to test. Unauthorised scanning may violate computer crime laws (CFAA, Computer Misuse Act, etc.).
 
 ---
+<img width="1423" height="928" alt="image" src="https://raw.githubusercontent.com/hakimkt/Wordpress-Basic-Security-Scanner/refs/heads/main/ui.png" />
 
 ## Features
 
